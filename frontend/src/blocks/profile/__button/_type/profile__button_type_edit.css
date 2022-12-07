@@ -1,0 +1,22 @@
+.profile__button_type_edit {
+  margin: 1.8% 18px 0;
+  width: 24px;
+  height: 24px;
+  border: 1px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 937px) {
+  .profile__button_type_edit {
+    width: calc(24px - (937px - 100vw)/100);
+    height: calc(24px - (937px - 100vw)/100);
+  }
+}
+
+@media screen and (max-width: 637px) {
+  .profile__button_type_edit {
+    margin-right: 0;
+  }
+}

@@ -1,0 +1,11 @@
+.footer {
+  width: var(--main-width);
+  padding: 67px 0 60px;
+}
+
+@media screen and (max-width: 937px) {
+  .footer {
+    padding-top: calc(67px - (937px - 100vw)/30);
+    padding-bottom: calc(60px - (937px - 100vw)/25);
+  }
+}

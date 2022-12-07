@@ -1,0 +1,9 @@
+.popup__view-location {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  bottom: -25px;
+  left: 0;
+  font-size: 12px;
+  line-height: 15px;
+}

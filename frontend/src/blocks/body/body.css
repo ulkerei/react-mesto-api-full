@@ -1,0 +1,26 @@
+.body {
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
+  font-family: 'Inter', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+  --main-width: 880px;
+}
+
+@media screen and (max-width: 937px){
+  .body {
+    --main-width: calc(880px - (937px - 100vw));
+  }
+}
+
+@media screen and (max-width: 337px){
+  .body {
+    --main-width: 282px;
+    overflow-x: auto;
+  }
+}

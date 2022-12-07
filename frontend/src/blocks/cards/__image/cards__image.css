@@ -1,0 +1,7 @@
+.cards__image {
+  width: 282px;
+  height: 282px;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 10px 10px 0 0;
+}

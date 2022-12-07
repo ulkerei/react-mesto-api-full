@@ -1,0 +1,7 @@
+.popup__close-x {
+  width: 100%;
+}
+
+.popup__close-x:hover {
+  opacity: .6;
+}

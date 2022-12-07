@@ -1,0 +1,12 @@
+.auth-form__input {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  margin: 0 0 45px;
+  padding: 5px 0 0;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+}

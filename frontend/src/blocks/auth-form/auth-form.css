@@ -1,0 +1,9 @@
+.auth-form {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  background-color: #000;
+  width: 430px;
+  padding: 60px 36px 0;
+  text-align: center;
+}

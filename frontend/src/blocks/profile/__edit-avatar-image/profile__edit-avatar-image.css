@@ -1,0 +1,12 @@
+.profile__edit-avatar-image {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.profile__button:hover > .profile__edit-avatar-image {
+  border: 2px solid rgba(255, 255, 255, .6);
+}

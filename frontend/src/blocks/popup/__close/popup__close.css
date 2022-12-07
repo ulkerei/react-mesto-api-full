@@ -1,0 +1,35 @@
+.popup__close {
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 637px) {
+  .popup__close {
+    right: calc(597px - 100vw);
+  }
+}
+
+@media screen and (max-width: 597px) {
+  .popup__close {
+    top: calc(-40px + (597px - 100vw)/10);
+    right: 0px;
+    width: calc(32px - (597px - 100vw)*12/40);
+    height: calc(32px - (597px - 100vw)*12/40);
+  }
+}
+
+@media screen and (max-width: 557px) {
+  .popup__close {
+    top: -36px;
+    width: 20px;
+    height: 20px;
+  }
+}

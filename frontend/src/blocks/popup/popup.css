@@ -1,0 +1,7 @@
+.popup {
+  display: flex;
+  visibility: hidden;
+  opacity: 0;
+  position: relative;
+  transition: all 1s ease;
+}
