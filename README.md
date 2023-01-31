@@ -31,7 +31,7 @@ Backend https://api.mestogram.nomoredomains.club
 
 Репозиторий проекта на GitHub: https://github.com/ulkerei/react-mesto-api-full.git
 
-[![Watch the video]](https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013)
+[Watch the video](https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013)
 
 https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013
 
