@@ -19,6 +19,14 @@ Backend https://api.mestogram.nomoredomains.club
 
 Репозиторий проекта на GitHub: https://github.com/ulkerei/react-mesto-api-full.git
 
-<a href="https://www.loom.com/share/9a78fa9f570c4faabd971421017bf013">
-  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9a78fa9f570c4faabd971421017bf013-with-play.gif">
-</a>
+
+
+
+
+<iframe src="https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+
+Previous variations:
+1. No-React version: https://github.com/ulkerei/mesto
+2. React version: https://github.com/ulkerei/mesto-react
+3. Multy-user version (front): https://github.com/ulkerei/react-mesto-auth
+4. Own backend: https://github.com/ulkerei/express-mesto-gha
