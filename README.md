@@ -21,11 +21,11 @@ A study project: social app where users could share theirs photos.
 3. Logged users able to change their personal information, add pictures, like/unlike pictures, delete own pictures.
 4. Non-authorized user not able to reach secure routes.
  
-While I have a grant at Ya.cloud, you could reach the app here:
+While I'm having a grant from Ya.cloud, you could reach the app here:
 Frontend https://mestogram.nomoredomains.club
 Backend https://api.mestogram.nomoredomains.club
 
-After that please [watch my loom video](https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013)
+After that please [watch my loom video](https://www.loom.com/embed/9a78fa9f570c4faabd971421017bf013).
 Or you can run this project locally:
 ```
 git clone https://github.com/ulkerei/react-mesto-api-full.git
