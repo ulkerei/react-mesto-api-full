@@ -30,7 +30,7 @@ Or you can run this project locally:
 ```
 git clone https://github.com/ulkerei/react-mesto-api-full.git
 ```
-go to local directory
+go to local directory subdir "frontend"
 ```
 npm i
 ```
